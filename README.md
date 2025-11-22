@@ -19,7 +19,7 @@ The application strictly adheres to the **Parent-Child Agent Model** required by
 | Component | Status | Link |
 | :--- | :--- | :--- |
 | **Public Repository** | ✅ Complete | [**https://github.com/nitishanaga/Tourism-MultiAgent-System**] |
-| **Live Deployment** | ✅ Deployed | [**INSERT YOUR DEPLOYED APPLICATION LINK HERE**] |
+| **Live Deployment** | ✅ Deployed | [**https://tourism-multiagent-system.onrender.com**] |
 | **Dependencies** | ✅ Detailed | See `requirements.txt` |
 
 ---
@@ -85,4 +85,5 @@ The system handles three types of queries as required:
 | **Weather Only** | `What is the temperature in Sydney?` | `WeatherAgent` only. | "In Sydney it's currently X°C..." |
 | **Places Only** | `Plan my trip to Sydney.` | `PlacesAgent` only. | "In Sydney these are the places you can go, [List]" |
 | **Combined** | `I'm going to Tokyo, what is the climate and where can I visit?` | Both Agents. | "In Tokyo it's currently X°C... And these are the places you can go: [List]" |
+
 
